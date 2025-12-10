@@ -29,7 +29,7 @@ Python, OpenAI, FastAPI, Streamlit, Langchain
 ## Implementation
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Veda0718/ai-data-analyst.git
 cd ai-data-analyst
 ```
 
